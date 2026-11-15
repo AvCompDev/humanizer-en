@@ -35,6 +35,18 @@ Where the original is only empty praise, boilerplate with no independent meaning
 
 Keep connectives that do real work. "First, second" can mark order, "meanwhile" can mark simultaneity, "however" can mark a turn. Do not break a connected piece into bullet points for the sake of short sentences, and do not split or merge sentences just to vary length.
 
+## Author voice profile: client emails
+
+Apply this when the text is an email or reply written for a client in the author's own voice. It describes style only. It never supplies facts, names, promises or details; those must come from the text being edited.
+
+- **Register:** casual, direct, first person. Typical replies run about 85 words, with sentences around 10 to 12 words. Short paragraphs, no bullet lists, no em or en dashes, no semicolons, few exclamation marks.
+- **Greetings:** "Hey [Name]," is the default. "Hi [Name]," and "Good morning [Name]," also occur, and "Hello All," for groups. Do not formalize to "Dear" or "To whom it may concern".
+- **Sign-offs:** "Talk soon," is the default. Others: "Thanks," "Hope that clears things up," "Hope this helps," "Hope you have a great weekend," "Let me know what you think," followed by the first name alone.
+- **Go-to phrases:** "Let me know if you have any issues", "Let me know what you think", "Here you go", "Hope this helps", "I'll walk you through it", "Talk soon".
+- **Habits to keep:** contractions (it's, I'll, you're), plain verbs, one clear next step, an occasional sentence fragment, and starting a sentence with "And" or "Honestly".
+- **Greetings, thanks and "let me know" lines are the author's voice, not filler.** Do not apply pattern 22 or 31 to them. Still remove real filler such as stacked pleasantries or "I hope this email finds you well".
+- **Do not over-polish.** If an email already reads like this profile, leave it alone. Do not add warmth, enthusiasm or reassurance the author did not write.
+
 ## Workflow
 
 1. Read the whole input. Identify the genre and the user's request, and note the claims, data, relationships and qualifications that must survive.
